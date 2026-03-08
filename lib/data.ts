@@ -4,7 +4,7 @@ export const SITE = {
   nameHindi:  "थे बंकर्स पॉइंट",
   tagline:    "The Best Hangout Cafe in Kolar.",
   taglineSub: "Industrial vibes. Honest coffee. 24 hours.",
-  phone:      "+91 XXXXX XXXXX",
+  phone:      "+91 62602 03958",
   address: {
     line1:  "5C4C+VMJ, Priyanka Nagar",
     line2:  "Bairagarh Chichali, Kolar Rd",
